@@ -3,7 +3,7 @@
 <p>Here I made a discord bot that can ask you quiz about the country flags 
 <ol>
   <li> <a href="https://discord.js.org/">Discord.js <a/>   </li>
-    <li> <a href="https://restcountries.com/v3.1"> restcountries </a>a>  </li>
+    <li> <a href="https://restcountries.com/v3.1"> restcountries </a>  </li>
 </ol>
 
 
